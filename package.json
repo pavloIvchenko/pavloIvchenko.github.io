@@ -1,0 +1,19 @@
+{
+  "name": "homework_daftcademy",
+  "version": "1.0.0",
+  "description": "Demo project for first lesson",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavloIvchenko/daftcademy_homework.git"
+  },
+  "author": "Pavlo Ivchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavloIvchenko/daftcademy_homework/issues"
+  },
+  "homepage": "https://github.com/pavloIvchenko/daftcademy_homework#readme"
+}
